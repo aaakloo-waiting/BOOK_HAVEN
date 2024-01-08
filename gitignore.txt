@@ -1,0 +1,18 @@
+# Ignore build artifacts and compiled files
+build/
+*.pro.user
+*.pro.user.*
+*.qbs
+*.qbs.user
+*.o
+*.pro.user.*
+*.user
+*.user.*
+*.moc
+*.moc.*
+*.moc_
+*.moc~
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
